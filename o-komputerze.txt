@@ -1,0 +1,52 @@
+Linux vm 5.15.0-53-generic #59-Ubuntu SMP Mon Oct 17 18:53:30 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        8105292 kB
+MemFree:         4031948 kB
+MemAvailable:    6052096 kB
+Buffers:           70604 kB
+Cached:          2220460 kB
+SwapCached:            0 kB
+Active:          1039624 kB
+Inactive:        2373668 kB
+Active(anon):       2708 kB
+Inactive(anon):  1224764 kB
+Active(file):    1036916 kB
+Inactive(file):  1148904 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:       2097148 kB
+SwapFree:        2097148 kB
+Dirty:                32 kB
+Writeback:             0 kB
+AnonPages:       1122316 kB
+Mapped:           587040 kB
+Shmem:            117904 kB
+KReclaimable:     109860 kB
+Slab:             222756 kB
+SReclaimable:     109860 kB
+SUnreclaim:       112896 kB
+KernelStack:       14528 kB
+PageTables:        26952 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     6149792 kB
+Committed_AS:    6230196 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       65556 kB
+VmallocChunk:          0 kB
+Percpu:           118272 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      312720 kB
+DirectMap2M:     4929536 kB
+DirectMap1G:     5242880 kB
